@@ -1,0 +1,9 @@
+.wrapper {
+    font-size: 1.5rem;
+    color: #f64348;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
